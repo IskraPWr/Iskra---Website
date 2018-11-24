@@ -1,0 +1,62 @@
+.btn-table {
+  display: inline-block;
+  color: #474747;
+  background-color: transparent;
+  margin-bottom: 0;
+  font-weight: normal;
+  background-image: none;
+  text-align: center;
+  vertical-align: middle;
+  -ms-touch-action: manipulation;
+      touch-action: manipulation;
+  cursor: pointer;
+  border-width: 1px;
+  background-image: none;
+  border-width:  1px;
+  white-space: nowrap;
+  border-color: transparent;
+  padding: 6px 12px;
+  font-size: 14px;
+  line-height: 1.42857143;
+  border-radius: 4px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.btn-table:focus,
+.btn-table:active:focus,
+.btn-table.active:focus,
+.btn-table.focus,
+.btn-table:active.focus,
+.btn-table.active.focus {
+  outline: 5px auto #EA5616;
+  outline-offset: -2px;
+}
+.btn-table:hover,
+.btn-table:focus,
+.btn-table.focus {
+  color: #EA5616;
+  text-decoration: none;
+  border: 1px solid #EA5616;
+}
+.btn-table:active,
+.btn-table.active {
+  outline: 0;
+  background-image: none;
+  -webkit-box-shadow: inset 0 3px 5px rgba(234,86,22, 0.125);
+  box-shadow: inset 0 3px 5px rgba(234,86,22, 0.125);
+}
+.btn-table.disabled,
+.btn-table[disabled],
+fieldset[disabled] .btn-table {
+  cursor: not-allowed;
+  opacity: 0.65;
+  filter: alpha(opacity=65);
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+a.btn-table.disabled,
+fieldset[disabled] a.btn-table {
+  pointer-events: none;
+}

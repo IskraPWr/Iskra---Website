@@ -1,0 +1,23 @@
+### PROTECT FILES ###
+<FilesMatch "\.(htaccess|htpasswd|ini|fla|psd|log|sh)$">
+Order Allow,Deny
+Deny from all
+</FilesMatch>
+
+Options FollowSymLinks
+RewriteEngine on
+RewriteRule ^szkola-tanca-iskra$ index.php
+RewriteRule ^o-nas$ onas.php
+RewriteRule ^zarzad$ zarzad.php
+RewriteRule ^galeria$ galeria.php
+RewriteRule ^dojazd-na-zajecia$ dojazd.php
+RewriteRule ^kontakt$ kontakt.php
+RewriteRule ^logotyp$ logotyp.php
+RewriteRule ^do-pobrania$ dopobrania.php
+RewriteRule ^faq$ faq.php
+RewriteRule ^pierwszy-krok$ pierwszykrok.php
+RewriteRule ^terminy-zajec$ terminyzajec.php
+RewriteRule ^skladki-czlonkowskie$ skladki.php
+RewriteRule ^statut$ statut.php
+RewriteRule ^aktualnosci$ aktualnosci.php
+ErrorDocument 404 http://www.sktt.pwr.edu.pl
