@@ -1,15 +1,7 @@
 @charset "utf-8";
-/*
-Template Name: Drywest
-Author: <a href="http://www.os-templates.com/">OS Templates</a>
-Author URI: http://www.os-templates.com/
-Licence: Free to use under our free template licence terms
-Licence URI: http://www.os-templates.com/template-terms
-File: Framework CSS
-*/
 
 html{overflow-y:scroll; overflow-x:hidden;}
-html, body{margin:0; padding:0; font-size:14px; line-height:1.6em;}
+html, body{margin:0; padding:0; font-size:14px;}
 
 *, *::before, *::after{box-sizing:border-box;}
 
@@ -109,6 +101,13 @@ address, article, aside, figcaption, figure, footer, header, main, nav, section{
 .btmspace-30{margin-bottom:30px;}
 .btmspace-50{margin-bottom:50px;}
 .btmspace-80{margin-bottom:80px;}
+
+.btmpadding-10{padding-bottom:10px;}
+.btmpadding-15{padding-bottom:15px;}
+.btmpadding-20{padding-bottom:20px;}
+.btmpadding-30{padding-bottom:30px;}
+.btmpadding-50{padding-bottom:50px;}
+.btmpadding-80{padding-bottom:80px;}
 
 .topspace-10{margin-top:10px;}
 .topspace-15{margin-top:15px;}

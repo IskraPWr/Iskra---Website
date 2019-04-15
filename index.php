@@ -62,8 +62,8 @@ $page = new Creator($data);
         <p class="btmspace-50">Jesli chcesz dowiedzieć się więcej o terminach zajęć i opłatach zapoznaj się z sekcją terminów zajęć i składek członkowskich.</p>
         <footer>
           <a class="btn" href="sktt/pages/terminy-zajec">Terminy zajęć</a>
-          </br>
-          </br>
+          <br>
+          <br>
           <a class="btn" href="sktt/pages/skladki-czlonkowskie">Składki członkowskie</a>
         </footer>
 
@@ -79,8 +79,8 @@ $page = new Creator($data);
           <h6 class="heading">Aktualności</h6>
           <p>Jeśli interesują Cię najnowsze wydarzenia związane z naszym klubem lub poszukujesz aktualnych informacji koniecznie
             kliknij w link poniżej i dowiedz się wszystkiego o naszej działalności.</p>
-          </br>
-          </br>
+          <br>
+          <br>
           <footer>
             <a class="btn" href="sktt/pages/aktualnosci">Aktualności</a>
           </footer>
@@ -100,16 +100,17 @@ $page = new Creator($data);
           <a href="sktt/pages/aktualnosci"> Aktualności </a>
         </h2>
         <ul class="nospace group elements">
-        <li>
+
+          <li>
             <article>
               <a href="sktt/pages/aktualnosci#A1">
                 <i class="fa fa-calendar"></i>
               </a>
               <h6 class="heading">Walne Zebranie SKTT Iskra</h6>
-              <p>W imieniu zarządu chcielibyśmy serdecznie zaprosić wszystkich zainteresowanych sprawami klubu na Walne Zebranie które odbędzie się <b>09.11.2018r. w sali Niebieskiej w Zajezdni Dąbie przy ulicy Wróblewskiego 38 w godzinach 19-22</b>.
-                </br>
-                </br>
-                Nasze zebranie ma na celu dokonanie wyborów uzupełniających do zarządu, omówienie sytuacji klubu, przedstawienia misji i wyzwań na kolejny rok a także wywołanie szeroko rozumianej dyskusji na temat miejsca naszej agendy w życiu akademickim i terytorialnym.
+              <p>W imieniu zarządu chcielibyśmy serdecznie zaprosić wszystkich zainteresowanych sprawami klubu na Walne Zebranie które odbędzie się <b>29.03.2019r. w sali nr. 2 w budynku C8 na kampusie Politechniki Wrocławskiej w godzinach 19-22.</b>
+                <br>
+                <br>
+                Nasze zebranie ma na celu dokonanie wyborów uzupełniających do zarządu, komisji rewizyjnej jak i omówienie aktualnej strategii działania klubu i celów na kolejny rok.
               </p>
               <footer>
                 <a href="sktt/pages/aktualnosci#A1">Czytaj dalej &raquo;</a>
@@ -117,17 +118,17 @@ $page = new Creator($data);
             </article>
           </li>
 
-          <li>
+        <li>
             <article>
               <a href="sktt/pages/aktualnosci#A2">
                 <i class="fa fa-calendar"></i>
               </a>
               <h6 class="heading">Rozpoczęcie nowego semestru w SKTT Iskra!</h6>
-              <p>Wszystkich spragnionych tanecznych wrażeń i pełnych sił do nowych wyzwań w nadchodzącym semestrze zapraszamy, w imieniu zarządu <b>"Studenckiego Klubu Tańca Towarzyskiego Iskra Politechniki Wrocławskiej"</b> na rozpoczynający się niedługo, nowy cykl zajęć z tańca towarzyskiego! 
-                </br>
-                </br>
+              <p>Wszystkich spragnionych tanecznych wrażeń i pełnych sił do nowych wyzwań w nadchodzącym semestrze zapraszamy, w imieniu zarządu <b>"Studenckiego Klubu Tańca Towarzyskiego Iskra Politechniki Wrocławskiej"</b> na rozpoczynający się niedługo semestr letni 2018/2019, nowy cykl zajęć z tańca towarzyskiego jak również bachaty, salsy i tańca użytkowego! 
+                <br>
+                <br>
                 Zapraszamy również do dołączenia do Naszego
-                <a href="https://www.facebook.com/events/2168543343387659/" target="_blank">wydarzenia</a> na Facebooku [&hellip;]
+                <a href="https://www.facebook.com/events/430569561095115/" target="_blank">wydarzenia</a> na Facebooku [&hellip;]
               </p>
               <footer>
                 <a href="sktt/pages/aktualnosci#A2">Czytaj dalej &raquo;</a>

@@ -26,7 +26,7 @@ final class Creator
         if (isset($initialization['keywords']))
             $this->data['keywords'] = $initialization['keywords'];
         else
-            $this->data['keywords'] = "taniec, taniec towarzyski, Pwr, Iskra, Wrocław, hobby, dance";
+            $this->data['keywords'] = "taniec, taniec towarzyski, PWr, Iskra, Wrocław, hobby, dance";
         
         if (isset($initialization['homepage'])) {
             if ($initialization['homepage'] == 'true'){
@@ -46,6 +46,7 @@ final class Creator
         
         ///////////////////telefon!
         $this->data['phone']='';
+        $this->data['base']='';
 
         /////////baza
         //$this->data['base']='http://sktt.cba.pl/sktt/pages/logowanie';

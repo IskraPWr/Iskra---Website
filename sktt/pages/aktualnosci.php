@@ -18,16 +18,30 @@
    <main class="hoc container clear">
       <!-- main body -->
       <div class="content news">
+         <h1 class="btmspace-50">Aktualności</h1>
          <div>
-            <h1 class="btmspace-50">Aktualności</h1>
             <h1 id="A1">Walne Zebranie SKTT Iskra</h1>
-            <p>W imieniu zarządu chcielibyśmy serdecznie zaprosić wszystkich zainteresowanych sprawami klubu na Walne Zebranie które odbędzie się <b>09.11.2018r. w sali Niebieskiej w Zajezdni Dąbie przy ulicy Wróblewskiego 38 w godzinach 19-22.</b>
-            <p>
-            <p>Nasze zebranie ma na celu dokonanie wyborów uzupełniających do zarządu, omówienie sytuacji klubu, przedstawienia misji i wyzwań na kolejny rok a także wywołanie szeroko rozumianej dyskusji na temat miejsca naszej agendy w życiu akademickim i terytorialnym.
-            </p>
+            <p>W imieniu zarządu chcielibyśmy serdecznie zaprosić wszystkich zainteresowanych sprawami klubu na Walne Zebranie które odbędzie się <b>29.03.2019r. w sali nr. 2 w budynku C8 na kampusie Politechniki Wrocławskiej w godzinach 19-22.</b></p>
+            <p>Nasze zebranie ma na celu dokonanie wyborów uzupełniających do zarządu, komisji rewizyjnej jak i omówienie aktualnej strategii działania klubu i celów na kolejny rok.</p>
          </div>
          <div>
             <h1 id="A2">Rozpoczęcie nowego semestru w SKTT Iskra!</h1>
+            <p>Wszystkich spragnionych tanecznych wrażeń i pełnych sił do nowych wyzwań w nadchodzącym semestrze zapraszamy letnim 2018/2019, w imieniu zarządu <b>"Studenckiego Klubu Tańca Towarzyskiego Iskra Politechniki Wrocławskiej"</b> na rozpoczynający się niedługo, nowy cykl zajęć z tańca towarzyskiego  jak również bachaty, salsy i tańca użytkowego! </p>
+            <p>Oznacza to również rozpoczęcie nowego naboru do Naszych grup tanecznych na wszystkich poziomach zaawansowania a także otwarcie grup z bachaty, salsy i tańca użytkowego!</p>
+            <p>Dlatego też, jeśli chcesz by nowy semestr był dla Ciebie czasem rozwoju i nowych wyzwań, nie zwlekaj, dołącz do Nas i daj
+               się ponieść rytmowi!
+            </p>
+            <p> Zapraszamy również do dołączenia do Naszego
+               <a href="https://www.facebook.com/events/430569561095115/" target="_blank">wydarzenia</a> na Facebooku.
+            </p>
+         </div>
+         <div>
+            <h1>Walne Zebranie SKTT Iskra</h1>
+            <p>W imieniu zarządu chcielibyśmy serdecznie zaprosić wszystkich zainteresowanych sprawami klubu na Walne Zebranie które odbędzie się <b>09.11.2018r. w sali Niebieskiej w Zajezdni Dąbie przy ulicy Wróblewskiego 38 w godzinach 19-22.</b></p>
+            <p>Nasze zebranie ma na celu dokonanie wyborów uzupełniających do zarządu, omówienie sytuacji klubu, przedstawienia misji i wyzwań na kolejny rok a także wywołanie szeroko rozumianej dyskusji na temat miejsca naszej agendy w życiu akademickim i terytorialnym.</p>
+         </div>
+         <div>
+            <h1>Rozpoczęcie nowego semestru w SKTT Iskra!</h1>
             <p>Wszystkich spragnionych tanecznych wrażeń i pełnych sił do nowych wyzwań w nadchodzącym semestrze zapraszamy, w imieniu zarządu <b>"Studenckiego Klubu Tańca Towarzyskiego Iskra Politechniki Wrocławskiej"</b> na rozpoczynający się niedługo, nowy cykl zajęć z tańca towarzyskiego! </p>
             <p>Oznacza to również rozpoczęcie nowego naboru do Naszych grup tanecznych na wszystkich poziomach zaawansowania!</p>
             <p>Dlatego też, jeśli chcesz by nowy semestr był dla Ciebie czasem rozwoju i nowych wyzwań, nie zwlekaj, dołącz do Nas i daj
@@ -47,11 +61,13 @@
             </p>
          </div>
          <div>
-            <h1>Nadzwyczajne Walne Zebra­nie Człon­ków Klubu SKTT ISKRA PWr</h1>
+         <h1>Nadzwyczajne Walne Zebra­nie Człon­ków Klubu SKTT ISKRA PWr</h1>
             <p>Nadzwyczajne Walne Zebra­nie Człon­ków Klubu SKTT ISKRA PWr odbę­dzie się 10 grudnia 2017 (niedziela) o godzi­nie 19:00
                w Budynku C-8 Politechniki Wrocławskiej.
             </p>
             <p>Walne Zebranie zostaje zwołane w celu wyboru brakujących członków Zarządu i Komisji Rewizyjnej Klubu.</p>
+         </div>
+         <div>
             <h1>Rozpoczęcie semestru zimowego (2017/2018)</h1>
             <p>Pełni sił rozpoczęliśmy sezon taneczny – zapraszamy na zajęcia!</p>
             <p>OPIS GRUP</p>

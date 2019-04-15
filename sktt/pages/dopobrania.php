@@ -27,6 +27,7 @@ $page = new Creator($data);
       <a title="Informacja o ukończeniu studiów" href="../files/sktt_ukonczenie_studiow.pdf" target="_blank">Informacja o ukończeniu studiów</a>
       <a title="Informacja o wykresłeniu z listy studentów" href="../files/sktt_wykreslenie_z_listy_studentow.pdf" target="_blank">Informacja o wykresłeniu z listy studentów</a>
       <a title="Informacja o zmianie uczelni" href="../files/sktt_zmiana_uczelni.pdf" target="_blank">Informacja o zmianie uczelni</a>
+      <a title="Zgoda rodzica na uczestnictwo dziecka poniżej 18 roku życia w zajęciach SKTT Iskra" href="../files/zgoda_rodzica.pdf" target="_blank">Zgoda rodzica na uczestnictwo dziecka poniżej 18 roku życia w zajęciach SKTT Iskra</a>
     </div>
       
     <!-- / main body -->
