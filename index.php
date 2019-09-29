@@ -1,17 +1,17 @@
 <?php
-require_once "sktt/content/creator.php"; 
+require_once "sktt/content/creator.php";
 
 //do ustawienia: title description, keywords, homepage
-//default: 
-//title-> SKTT Iskra PWr; 
+//default:
+//title-> SKTT Iskra PWr;
 //description-> "Odkryj Naszą Szkołę Tańca, daj sie porwać rytmowi, spotkaj nowych ludzi i poznaj przyjemniejszą strone studiowania już dziś!"
 //keywords-> taniec, taniec towarzyski, Pwr, Iskra, Wrocław, hobby, dance
 //homapage-> false;
 
-$data['homepage']='true';
+$data['homepage'] = 'true';
 
 $page = new Creator($data);
- echo $page->getBeginning();
+echo $page->getBeginning();
 
 ?>
 
@@ -23,23 +23,23 @@ $page = new Creator($data);
         <div class="first padding">
 
           <h6 class="heading">O nas</h6>
-          <p>SKTT ISKRA został założony 20 lutego 2006 roku.
-            <br/>
-            <br/> Taniec Towarzyski to nie tylko nowe kroki i figury, to także sposób na zdrowy tryb życia, piękną sylwetkę i
-            świetną zabawę.
-            <br/>
-            <br/> Poprzez treningi prowadzone przez dyplomowanego nauczyciela tańca Licentiate ISTD* Barbarę Pisarską-Gubernat
-            nauczysz się nie tylko świetnie tańczyć, ale także nabierzesz umiejętności jak lepiej prezentować swoją osobę
-            podczas publicznych wystąpień.
-            <br/>
-            <br/> Naszą życiową pasją jest Taniec Towarzyski. Rozwijamy nasze umiejętności poprzez treningi na 3 poziomach zaawansowania
-            – podstawowym , średnim i zaawansowanym. Każdy znajdzie coś dla siebie, zarówno osoby które chcą zacząć tańczyć
-            jak i osoby posiadające klasy sportowe. Poza regularnymi treningami organizujemy również warsztaty taneczne w
-            okresie wakacji i ferii zimowych.</p>
-          <p class="btmspace-30">SKTT ISKRA w imieniu Politechniki Wrocławskiej korzysta z praw członka wspierającego Polskie Towarzystwo Taneczne.
-            Pary w naszym klubie mają możliwość osiągnięcia bardzo wysokich wyników sportowych i występowania na ogólnopolskich
-            turniejach. Jak dotąd najlepsza para osiągnęła klasę sportową B (wyżej jest tylko klasa “A” i międzynarodowa
-            “S”). [&hellip;]</p>
+          <p>SKTT ISKRA został założony 20 lutego 2006 roku.</p>
+          <p>Już od kilkunastu lat skupiamy w swoich szeregach wrocławskie, akademickie środowisko taneczne wywodzące się
+           z Politechniki Wrocławskiej (i nie tylko!).</p>
+          <p>SKTT Iskra powstał pierwotnie jako klub dedykowany niemal
+           wyłącznie dla tańca towarzyskiego, lecz od jakiegoś czasu staramy się urozmaicać spędzany w naszym gronie
+           czas o kursy tańca wszelkiej maści, na które tylko znajdą się chętni uczestnicy.</p>
+          <p>Nasz klub powstał pierwotnie jako dedykowany niemal
+           wyłącznie dla tańca towarzyskiego, lecz od jakiegoś czasu staramy się urozmaicać spędzany w naszym gronie
+           czas o kursy tańca wszelkiej maści, na które tylko znajdą się chętni uczestnicy.</p>
+          <p> W związku z tym już wielu roztańczonych,
+           zadowolonych studentów brało udział w naszych zajęciach m.in. z <ul>
+             <li>bachaty</li>
+             <li>salsy</li>
+             <li>tańca użytkowego</li>
+             <li>high heels</li>
+             </ul>
+           Ich pozytywny odzew motywuje nas do dalszego poszerzania oraz usprawniana naszej oferty! [&hellip;]</p>
           <footer>
             <a class="btn" href="sktt/pages/o-nas">Czytaj dalej &raquo;</a>
           </footer>
@@ -124,7 +124,7 @@ $page = new Creator($data);
                 <i class="fa fa-calendar"></i>
               </a>
               <h6 class="heading">Rozpoczęcie nowego semestru w SKTT Iskra!</h6>
-              <p>Wszystkich spragnionych tanecznych wrażeń i pełnych sił do nowych wyzwań w nadchodzącym semestrze zapraszamy, w imieniu zarządu <b>"Studenckiego Klubu Tańca Towarzyskiego Iskra Politechniki Wrocławskiej"</b> na rozpoczynający się niedługo semestr letni 2018/2019, nowy cykl zajęć z tańca towarzyskiego jak również bachaty, salsy i tańca użytkowego! 
+              <p>Wszystkich spragnionych tanecznych wrażeń i pełnych sił do nowych wyzwań w nadchodzącym semestrze zapraszamy, w imieniu zarządu <b>"Studenckiego Klubu Tańca Towarzyskiego Iskra Politechniki Wrocławskiej"</b> na rozpoczynający się niedługo semestr letni 2018/2019, nowy cykl zajęć z tańca towarzyskiego jak również bachaty, salsy i tańca użytkowego!
                 <br>
                 <br>
                 Zapraszamy również do dołączenia do Naszego
@@ -309,6 +309,6 @@ $page = new Creator($data);
   </div>
 
 <?php
- echo $page->getEnd();
+echo $page->getEnd();
 ?>
 

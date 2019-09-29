@@ -69,7 +69,7 @@ $page = new Creator($data);
       <br><br>
       <b> 7. Czy SKTT ISKRA PWr prowadzi kursy taneczne?</b>
       <br><br>
-        SKTT ISKRA PWr nie prowadzi zamkniętych form – kursów. Działalność Klubu opiera się na prowadzeniu otwartej formy. Dzięki temu do Klubu można dołączyć w dowolnym czasie, a nie tylko na początku semestru czy na początku roku akademickiego. Do tego trójstopniowy podział na grupy taneczne pozwala na spróbowaniu swoich sił i umiejętności na wyższym poziomie tanecznym.
+        Tak, SKTT ISKRA PWr prowadzi zamknięte formy zajęć – kursy. Informację o obecnie otwartych kursach znajdziesz na naszym harmonogramie zajęć lub na naszej stronie na Facebooku.
       <br><br>
       <b>8. Czy mogę przyjść i obejrzeć przebieg zajęć tanecznych?</b>
       <br><br>

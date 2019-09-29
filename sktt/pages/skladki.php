@@ -48,12 +48,12 @@
         </li>
         <li class="one_third">
           <article>
-          <a target="_blank" href="https://polibudka.pl/produkt/oplata-skladki-czlonkowskiej-sktt-iskra-pwr-platnosc-ratalna-rata-ii/ ">
+          <a target="_blank" href="https://polibudka.pl/produkt/oplata-skladki-czlonkowskiej-sktt-iskra-pwr-platnosc-ratalna-rata-i/ ">
             <i class="fas fa-user-check"></i>
             </a>
-            <h6 class="heading">Druga rata</h6>
-            <a target="_blank" href="https://polibudka.pl/produkt/oplata-skladki-czlonkowskiej-sktt-iskra-pwr-platnosc-ratalna-rata-ii/">
-            <p>Opłata Składki Członkowskiej w formie drugiej raty</p>
+            <h6 class="heading">Pierwsza rata</h6>
+            <a target="_blank" href="https://polibudka.pl/produkt/oplata-skladki-czlonkowskiej-sktt-iskra-pwr-platnosc-ratalna-rata-i/">
+            <p>Opłata Składki Członkowskiej w formie pierwszej raty</p>
         </a>
           </article>
         </li>
@@ -222,15 +222,15 @@
                </tr>
                <tr>
                   <th>Semetr zimowy</th>
-                  <td>12.11.2018r.</td>
-                  <td>03.12.2018r.</td>
-                  <td>07.01.2019r.</td>
+                  <td>22.10.2019r.</td>
+                  <td>26.11.2019r.</td>
+                  <td>07.01.2020r.</td>
                </tr>
                <tr>
                   <th>Semetr letni</th>
-                  <td>13.03.2019r.</td>
-                  <td>15.04.2019r.</td>
-                  <td>27.05.2019r.</td>
+                  <td></td>
+                  <td></td>
+                  <td></td>
                </tr>
             </table>
          </div>

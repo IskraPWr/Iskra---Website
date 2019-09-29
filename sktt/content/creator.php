@@ -45,7 +45,7 @@ final class Creator
         }
         
         ///////////////////telefon!
-        $this->data['phone']='';
+        $this->data['phone']='515-951-120';
         $this->data['base']='';
 
         /////////baza
